@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+}
+
+button {
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+}
